@@ -1,3 +1,4 @@
-# Lung_Disease_Classification
+# A comparative analysis of different CNN Architectures for Pulmonary Disease
+Classification: Inception v3 vs. ResNet-50
 
 Lung disease, also known as pulmonary disease, is a broad term that refers to any condition that affects the lungs and impairs their ability to function properly. X-ray may show changes in the appearance of lungs which may be due to certain diseases. This project involves classification of Tuberculosis, Pneumonia and healthy lungs. X-ray images have been collected from different sources. The images are then compiled, balanced and pre-processed. We train the Lung X-rays using pre-trained deep convolutional neural networks(ResNet-50 and inception v-3). The use of pre-trained networks not only works for small image dataset but is also computationally less expensive.In the process we expect to achieve a high accuracy rate.

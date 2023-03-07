@@ -16,42 +16,6 @@
 
 **Classification: Inception v3 vs. ResNet-50**
 
-**Submitted By:**
-
-Amit Raj Pant (THA076BCT005)
-
-Pilot Khadka (THA076BCT025)
-
-Rajin Khatri (THA076BCT034)
-
-Sujan Lamichhane (THA076BCT045)
-
-**Submitted To:**
-
-Department of Electronics and Computer Engineering
-
-Thapathali Campus
-
-Kathmandu, Nepal
-
-March, 2023
-
-![](Aspose.Words.27cd4a96-04b8-4989-a8b1-2210b943dfd1.001.png)
-
-**TRIBHUVAN UNIVERSITY**
-
-**INSTITUTE OF ENGINEERING**
-
-**THAPATHALI CAMPUS**
-
-**A Project Report**
-
-**On**
-
-**A comparative analysis of different CNN Architectures for Pulmonary Disease**
-
-**Classification: Inception v3 vs. ResNet-50**
-
 
 **Submitted By:**
 
